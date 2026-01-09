@@ -22,11 +22,12 @@ A small project that uses a video shader to reveal motion by subtracting the pre
 - Simple and responsive
 
 # Code Structure
-p5.js sketch + small GLSL fragment shader  
+p5.js sketch and GLSL fragment shader  
 Stores the previous frame as a texture and compares it to the current input.
 
 # Purpose
-Experiment with frame differencing, motion visualization, and shader-based image processing.
+Experiment with frame differencing, motion visualization, and shader-based image processing. 
+Created testing potential submissions for University of Rochester 2026 Art of Science Competition. 
 
 # Technologies
 - p5.js
